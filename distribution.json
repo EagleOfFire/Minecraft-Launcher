@@ -753,14 +753,14 @@
           }
         },
         {
-          "id": "BSL_v8.2.09.zip.txt",
-          "name": "BSL_v8.2.09.zip.txt",
-          "type": "File",
+          "id": "BSL_v8.4.02.2",
+          "name": "BSL Shaders v8.4.02.2",
+          "type": "ShaderPack",
           "artifact": {
-            "size": 50,
-            "url": "http://localhost:8080/servers/Rise-of-Shinobi-1.20.1/files/shaderpacks/BSL_v8.2.09.zip.txt",
-            "MD5": "40f3750efab739cb43981f3a3684dc04",
-            "path": "shaderpacks/BSL_v8.2.09.zip.txt"
+            "size": 1108441,
+            "url": "http://localhost:8080/servers/Rise-of-Shinobi-1.20.1/files/shaderpacks/BSL_v8.4.02.2.zip",
+            "MD5": "595a27ea52eb9cdd9a71cdaacb59ce2d",
+            "path": "shaderpacks/BSL_v8.4.02.2.zip"
           }
         },
         {
