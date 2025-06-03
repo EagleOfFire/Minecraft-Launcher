@@ -753,25 +753,14 @@
           }
         },
         {
-          "id": "BSL_v8.4.02.2",
-          "name": "BSL Shaders v8.4.02.2",
-          "type": "ShaderPack",
-          "artifact": {
-            "size": 1108441,
-            "url": "http://localhost:8080/servers/Rise-of-Shinobi-1.20.1/files/shaderpacks/BSL_v8.4.02.2.zip",
-            "MD5": "595a27ea52eb9cdd9a71cdaacb59ce2d",
-            "path": "shaderpacks/BSL_v8.4.02.2.zip"
-          }
-        },
-        {
-          "id": "BSL_v8.4.02.2.zip",
-          "name": "BSL_v8.4.02.2.zip",
+          "id": "com.capttatsu:bsl:8.2.09",
+          "name": "BSL Shaders",
           "type": "File",
           "artifact": {
-            "size": 1108441,
-            "url": "http://localhost:8080/servers/Rise-of-Shinobi-1.20.1/files/shaderpacks/BSL_v8.4.02.2.zip",
-            "MD5": "595a27ea52eb9cdd9a71cdaacb59ce2d",
-            "path": "shaderpacks/BSL_v8.4.02.2.zip"
+            "size": 50,
+            "MD5": "40f3750efab739cb43981f3a3684dc04",
+            "path": "shaderpacks/BSL_v8.2.09.zip.txt",
+            "url": "https://github.com/EagleOfFire/Minecraft-Launcher/blob/master/shaderpacks/BSL_v8.4.02.2.zip?raw=true",
           }
         }
       ]
