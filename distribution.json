@@ -759,8 +759,8 @@
           "artifact": {
             "size": 50,
             "MD5": "40f3750efab739cb43981f3a3684dc04",
-            "path": "shaderpacks/BSL_v8.2.09.zip.txt",
-            "url": "https://github.com/EagleOfFire/Minecraft-Launcher/blob/master/shaderpacks/BSL_v8.4.02.2.zip?raw=true",
+            "path": "shaderpacks/BSL_v8.2.09.zip",
+            "url": "https://github.com/EagleOfFire/Minecraft-Launcher/blob/master/shaderpacks/BSL_v8.4.02.2.zip?raw=true"
           }
         }
       ]
