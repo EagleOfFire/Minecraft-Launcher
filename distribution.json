@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 152745,
-            "url": "https://github.com/EagleOfFire/ROS-server/raw/refs/heads/main/servers/Rise-of-Shinobi-1.20.1/forgemods/required/CameraOverhaul-v2.0.3-forge+mc[1.20.0-1.20.5].jar",
+            "url": "https://github.com/EagleOfFire/ROS-server/raw/refs/heads/main/servers/Rise-of-Shinobi-1.20.1/forgemods/required/CameraOverhaul-v2.0.3-forge+mc%5B1.20.0-1.20.5%5D.jar",
             "MD5": "c045cf00551c55e86f4661a45d8a101f"
           }
         },
