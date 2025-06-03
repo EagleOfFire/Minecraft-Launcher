@@ -11,7 +11,7 @@
       "id": "Rise-of-Shinobi-1.20.1",
       "name": "Rise-of-Shinobi (Minecraft 1.20.1)",
       "description": "Rise-of-Shinobi Running Minecraft 1.20.1 (Forge v47.3.6)",
-      "icon": "https://github.com/EagleOfFire/Minecraft-Launcher/blob/df3524741734c57dfc8e78ca512b598d69896c5c/ROS.png?raw=true",
+      "icon": "https://raw.githubusercontent.com/EagleOfFire/Minecraft-Launcher/df3524741734c57dfc8e78ca512b598d69896c5c/ROS.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
