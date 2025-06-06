@@ -10,8 +10,8 @@ mediaYouTubeURL = "#"
 mediaDiscordURL = "https://discord.gg/x7ujeNUUZS"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/EagleOfFire/Minecraft-Launcher"
+supportLink = "https://github.com/EagleOfFire/Minecraft-Launcher/issues"
 
 [ejs.welcome]
 welcomeHeader = "BIENVENUE SUR RISE OF SHINOBI"
