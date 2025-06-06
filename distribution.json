@@ -13,7 +13,7 @@
       "description": "Rise-of-Shinobi Running Minecraft 1.20.1 (Forge v47.3.6)",
       "icon": "https://raw.githubusercontent.com/EagleOfFire/Minecraft-Launcher/df3524741734c57dfc8e78ca512b598d69896c5c/ROS.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "91.197.6.249:25667",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
